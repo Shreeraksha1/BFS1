@@ -1,0 +1,547 @@
+.logo{
+    position: absolute;
+    width: 287px;
+    height: 89px;
+    top:40px;
+    left: 0px;
+font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 34px;
+line-height: 44px;
+letter-spacing: 4px;
+color: #FDF449;
+mix-blend-mode: normal;
+}
+.part1{
+    width: 1356.5px;
+    height: 651px;
+    position: absolute;
+    background: #000000;
+    left: -8px;
+    top: -8px;
+}
+h1{
+    width: 556px;
+    height: 112px;
+    top: 140px;
+    left: 95px;
+    position: absolute;
+font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 500;
+font-size: 51px;
+line-height: 109%;
+color: #FFFFFF;
+}
+
+p{
+    width: 411px;
+    height: 60px;
+    top: 290px;
+    left: 95px;
+    position: absolute;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+color: #FCFDD6;
+}
+.pic1{
+    height: 651px;
+    width: 575px;
+    left: 782.5px;
+    position: absolute;
+}
+h2{
+    width: 256px;
+    height: 46px;
+    top: 380px;
+    left: 90px;
+    position: absolute;
+font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 46px;
+text-align: center;
+color: #FFFFFF;
+}
+.button-1{
+    width: 170px;
+    height: 40px;
+    top: 470px;
+    left: 95px;
+    border:none;  
+position: absolute;
+background-color: rgba(253, 244, 73, 1);
+font-family:  Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+border-radius: 10px;
+}
+.button-1:hover {
+    background-color: rgb(253, 251, 215);
+}
+.container{
+position: absolute;
+width: 1351.5px;
+height: 600px;
+left: -2px;
+top: 639px;
+background: #FDF449;
+}
+.nav{
+    position: absolute;
+left: 890px;
+top: 60px;
+width: 400px;
+height: 32px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 25px;
+color: #ffffff;
+text-decoration-color: none;
+text-decoration-line: none;
+}
+.box-1{
+position: absolute;
+width: 315px;
+height: 338px;
+left: 110px;
+top: 130px;
+background: #FFFFFF;
+box-shadow: 11px 15px 9px 2px rgba(0, 0, 0, 0.35);
+border-radius: 20px;
+}
+.box-2{
+    position: absolute;
+    width: 315px;
+    height: 338px;
+    left: 519px;
+    top: 130px;
+    background: #FFFFFF;
+    box-shadow: 11px 15px 9px 2px rgba(0, 0, 0, 0.35);
+    border-radius: 20px;
+    }
+    .box-3{
+        position: absolute;
+        width: 315px;
+        height: 338px;
+        left: 930px;
+        top: 130px;
+        background: #FFFFFF;
+        box-shadow: 11px 15px 9px 2px rgba(0, 0, 0, 0.35);
+        border-radius: 20px;
+        }
+
+h4{
+
+margin-top: 5px;
+margin-left: 35px;
+font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+}
+.headings{
+    position: absolute;
+width: 225px;
+height: 36px;
+left: 35px;
+top: 195px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+}
+.button-2{
+    width: 110px;
+    height: 38px;
+    top:279px;
+    left: 30px;  
+position: absolute;
+border:none;
+background-color: rgb(0, 0, 0);
+color: #ffffff;
+font-family:  Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 50;
+font-size: 15px;
+line-height: 19px;
+border-radius: 7px;
+}
+.button-2:hover {
+    background-color:#fff755;
+    color: #000000;
+}
+.post{
+position: absolute;
+width: 1351.5px;
+height: 600px;
+left: -2px;
+top: 1230px;
+background: #ffffff;
+}
+.photo{
+    position: absolute;
+width: 350px;
+height: 360px;  
+top: 160px;
+border-radius: 9px;
+}
+.latest-photo{
+    width: 500px;
+    height: 46px;
+   top: 20px;
+   left: -20px;
+    position: absolute;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 47px;
+    line-height: 109%;
+color: #000000;
+}
+h5{
+    position: absolute;
+    top: 550px;
+    width: 300px;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 26px;
+    color: #000000;
+    }
+
+ .part-4{
+    position: absolute;
+    width: 1351.5px;
+    height: 640px;
+    left: 0px;
+    top: 1900px;
+    background: #0F0E0E;
+    }
+    h3{
+        font-family: 'EB Garamond';
+font-style: normal;
+font-weight:500;
+font-size: 40px;
+line-height: 57px;
+color: #FDF449;
+left: 90px;
+width: 600px;
+position: relative;
+    }
+    .content{
+        position: absolute;
+width: 1063px;
+height: 100px;
+left: 90px;
+top: 100px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+letter-spacing: 0.035em;
+color: #FFFFFF;
+    }
+h6{
+ font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 44px;
+color: #FFFFFF;
+}
+.one{
+    position: absolute;
+    width:211px;
+    height:44px;
+    top :100px;
+    left: 90px;
+}
+.two{
+    position: absolute;
+    width:211px;
+    height:44px;
+    top :340px;
+    left: 90px; 
+}
+.points{
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 19px;
+color: #FFFFFF;
+position: absolute;
+width: 383px;
+height: 76px;
+left: 70px;
+top: 290px;
+}
+.part-5{
+    position: absolute;
+    width: 1351.5px;
+    height: 600px;
+    left: 0px;
+    top: 2500px;
+}
+.about{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight:500;
+    font-size: 45px;
+    line-height: 57px;
+    color: #000000;
+    left: 100px;
+    top: 100px;
+    position: relative;
+}
+.about-me{
+top:90px;
+width: 580px;
+height: 400px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+letter-spacing: 0.035em;
+color: #000000;
+}
+.pic-2{
+    height: 488px;
+    width: 400px;
+    left: 820px;
+    position: absolute;
+    top:90px;
+}
+.button-3{
+position: absolute;
+background: #FDF449;
+border:none;
+border-radius: 9px;
+width: 130px;
+height: 42px;
+top:420px;
+left: 90px;  
+color: #000000;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+}
+.button-3:hover {
+    background-color:#0c0c0c;
+    color: #FCFDD6;
+}
+.part-6{
+    position: absolute;
+    width: 1351.5px;
+    height: 700px;
+    left: 0px;
+    top: 3130px;
+    background-color: #FDF449;
+}
+.contact{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight:500;
+    font-size: 47px;
+    line-height: 57px;
+    color: #000000;
+    left: 120px;
+    top: 10px;
+    position: relative;
+}
+.form{
+    
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 18px;
+line-height: 48px;
+color: #000000;
+left: 120px;
+top: -25px;
+width: 600px;
+position: relative;
+
+}
+input{
+    background: #FFFFFF;
+     border-radius: 9px;
+    height: 38px;
+    width: 330px;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 16px;
+letter-spacing: 0.8px;
+    position: absolute;
+}
+.button-4{
+    width: 150px;
+    height: 45px;
+    top:420px;
+    left: 0px;  
+position: absolute;
+border:none;
+background-color: rgb(0, 0, 0);
+color: #ffffff;
+font-family:  Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 50;
+font-size: 17px;
+line-height: 19px;
+border-radius: 14px;
+}
+.button-4:hover {
+    background-color:#f3f3ed;
+    color: #000000;
+}
+.pic-3{
+    height: 520px;
+    width: 500px;
+    left: 600px;
+    position: absolute;
+    top:-48px; 
+}
+.end{
+    position: absolute;
+    width: 1351.5px;
+    height: 118px;
+    left: 0px;
+    top: 3800px;
+    background: #000000;
+}
+.logo-1{
+    position: absolute;
+    width: 287px;
+    height: 89px;
+    top:10px;
+    left: 0px;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 44px;
+    letter-spacing: 4px;
+    color: #FDF449;
+    mix-blend-mode: normal;
+}
+.nav-1{
+    position: absolute;
+    width: 700px;
+    height: 30px;
+    top:40px;
+    left: 455px;
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: -0.015em;
+}
+.end2023{
+    position: absolute;
+width: 215px;
+height: 24px;
+left: 1070px;
+top: 10px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+text-align: right;
+letter-spacing: -0.015em;
+color: #FFFFFF;
+}
+.p-1{
+position: absolute;
+width: 150px;
+height: 150px;
+left: 110px;
+top: 480px;
+}
+.p-1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 200px;
+    top: 480px;
+    }
+    .p-2{
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 500px;
+        top: 480px;
+        }
+        .p-3{
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            left: 800px;
+            top: 480px;
+            }
+            .p-4{
+                position: absolute;
+                width: 150px;
+                height: 150px;
+                left: 1100px;
+                top: 480px;
+                }
+.num{  
+position: absolute;
+width: 51px;
+height: 35px;
+top: -10px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 35px;
+color: #FFFFFF;
+}
+.num-1{
+    position: absolute;
+    width: 108px;
+    height: 19px;
+    top: 75px;
+   
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
