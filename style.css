@@ -409,6 +409,9 @@ input {
     text-decoration-line: none;
     color: #ffff;
 }
+.end-link:hover{
+    color: #FDF449;
+}
 
 .end2023 {
     width: 215px;
@@ -463,3 +466,5 @@ input {
         padding: 5rem 5rem 7rem 8rem;
     }
 }
+
+
