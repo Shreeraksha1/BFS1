@@ -105,7 +105,7 @@ body {
     font-family: 'EB Garamond';
     font-style: normal;
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #000000;
     margin-bottom: 0.7rem;
 }
@@ -116,7 +116,7 @@ body {
     font-family: 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 1rem;
     line-height: 18px;
     color: #000000;
 }
@@ -164,7 +164,7 @@ body {
     font-family: 'EB Garamond';
     font-style: normal;
     font-weight: 500;
-    font-size: 47px;
+    font-size: 3.5rem;
     line-height: 109%;
     color: #000000;
     padding-left: 4rem;
@@ -176,7 +176,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 23px;
+    font-size: 1.5rem;
     line-height: 26px;
     color: #000000;
     text-align: left;
@@ -201,7 +201,7 @@ body {
 .content {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
-    font-size: 1.05rem;
+    font-size: 1.04rem;
     letter-spacing: 0.035em;
     color: #FFFFFF;
 }
@@ -209,7 +209,7 @@ body {
 .one{
     font-family: 'EB Garamond';
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 2.4rem;
     color: #FFFFFF;
     margin: 0;
     padding-top: 2rem;
@@ -218,7 +218,7 @@ body {
 .two {
     font-family: 'EB Garamond';
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 2.4rem;
     color: #FFFFFF;
     margin: 0;
     padding-top: 1.3rem;
@@ -227,7 +227,7 @@ body {
 .points {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
-    font-size: 1.05rem;
+    font-size: 1rem;
     color: #FFFFFF;
     padding-top: 1rem;
 }
@@ -241,7 +241,7 @@ body {
 .num {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
-    font-size: 25px;
+    font-size: 1.7rem;
     color: #FFFFFF;
     margin: 0%;
 }
@@ -249,7 +249,7 @@ body {
 .num-1 {
      font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1rem;
     color: #FFFFFF;
 }
 
@@ -261,7 +261,9 @@ body {
 
 .about {
     font-family: 'EB Garamond';
-    font-size: 2.5rem;
+    font-size: 3.5rem;
+    font-weight: 500;
+    margin-top: 0;
     color: #000000;
 }
 
@@ -317,14 +319,14 @@ body {
 .contact {
     margin: 0;
     font-family: 'EB Garamond';
-    font-size: 2.5rem;
+    font-size: 3.5rem;
+    font-weight: 500;
     color: #000000;
     padding-bottom: 2rem;
 }
 
 .form {
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 100;
     font-size: 1.1rem;
     letter-spacing: 1px;
     line-height: 48px;
@@ -336,12 +338,11 @@ input {
     background: #FFFFFF;
     border-radius: 9px;
     height: 38px;
-    width: 330px;
+    width: 450px;
     border: none;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
-    font-weight: 100;
-    font-size: 16px;
+    font-size: 1rem;
     letter-spacing: 0.8px;
 }
 
