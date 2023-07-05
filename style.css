@@ -33,7 +33,7 @@ body {
     top: 0;
     padding: 2rem;
     margin-right: 2rem;
-    font-family:" Roboto",Arial, Helvetica, sans-serif;
+    font-family:" Roboto",Arial, Helvetica, sans-serif ;
     font-style: normal;
     font-weight: 500;
     font-size: 21px;
@@ -47,7 +47,7 @@ body {
 
 .main-h {
     display: block;
-    width: 556px;
+    width: 34.73rem;
     font-family: 'EB Garamond';
     font-weight: 500;
     font-size: 3.4rem;
@@ -55,7 +55,7 @@ body {
 }
 .main-p {
     display: block;
-    width: 411px;
+    width: 25.688rem;
     font-family:" Roboto", Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 1.07rem;
@@ -201,7 +201,7 @@ body {
 .content {
     font-family:" Roboto", Arial, Helvetica, sans-serif;
     font-weight: 400;
-    font-size: 1.04rem;
+    font-size: 1rem;
     letter-spacing: 0.035em;
     color: #FFFFFF;
 }
@@ -212,7 +212,7 @@ body {
     font-size: 2.4rem;
     color: #FFFFFF;
     margin: 0;
-    padding-top: 2rem;
+    padding-top: 1.2rem;
 }
 
 .two {
@@ -238,11 +238,16 @@ body {
     justify-content: space-evenly;
     padding-top: 2rem;
 }
+
+.icon{
+   text-align: center;
+}
 .num {
     font-family: " Roboto",Arial, Helvetica, sans-serif;
     font-weight: 500;
     font-size: 1.7rem;
     color: #FFFFFF;
+    padding-top: 1rem;
     margin: 0%;
 }
 
@@ -422,7 +427,7 @@ input {
     color: #FFFFFF;
 }
 
-@media only screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
     .pic1, .link , .pic-3, .pic-2{
         display: none;
     }
@@ -450,6 +455,10 @@ input {
         text-align: left;
     }
 
+    .content, .points{
+        font-size: 1rem;
+    }
+
     .main-h, .main-h2, .main-p, .main-bt{
         text-align: center;
         margin: auto;
@@ -460,6 +469,9 @@ input {
     .sub-h2{
         margin: 0;
     }
+    .about-me{
+        width: auto;
+    }
 
     .part-2, .part-6{
         padding: 8rem;
@@ -469,4 +481,74 @@ input {
     }
 }
 
+@media screen and (max-width: 500px){
+
+    .logo{
+        padding-left: 2rem;
+        font-size: 1.8rem;
+    }
+    .part1{
+        height: max-content;
+        padding-top: 2rem;
+    }
+    .main-h{
+        font-size: 2.8rem;
+    }
+
+    .main-h, .main-h2, .main-p, .main-bt{
+        text-align: left;
+        margin: 0;
+        padding: 0.8rem 2rem 0.8rem 2rem;
+        width: auto;
+    }
+    .main-bt{
+        padding-bottom: 5rem;
+    }
+    .post-1{
+        padding: 0;
+    }
+    .latest-photo{
+        font-size: 2.8rem;
+        padding: 2rem;
+    }
+    .sub-h2{
+        padding: 1rem;
+    }
+    .part-2{
+        padding: 2rem;
+    }
+    .sub-h3{
+        font-size: 2.8rem;
+    }
+    .one, .two{
+        font-size: 2.5rem;
+    }
+    .icon{
+        padding: 1.7rem 2.9rem 1.7rem 2.9rem;
+    }
+    .part-5{
+        padding: 2rem 2rem 2rem 2rem;
+    }
+    .about{
+        font-size: 2.8rem;
+        margin-bottom: 1.4rem;
+    }
+    .about-me{
+        width: auto;
+    }
+    .sub-bt{
+        padding-top: 2rem;
+    }
+    .part-6{
+        padding: 2rem;
+    }
+    .contact{
+        font-size: 2.8rem;
+        padding-bottom: 1.5rem;
+    }
+    input{
+        height: 2rem;
+        width: 17rem;
+    }
+}
 
