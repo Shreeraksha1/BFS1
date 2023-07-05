@@ -494,7 +494,7 @@ input {
     .main-h{
         font-size: 2.8rem;
     }
-
+    
     .main-h, .main-h2, .main-p, .main-bt{
         text-align: left;
         margin: 0;
@@ -504,12 +504,17 @@ input {
     .main-bt{
         padding-bottom: 5rem;
     }
+    .main-p{
+        padding-bottom: 2rem;
+    }
     .post-1{
         padding: 0;
     }
     .latest-photo{
         font-size: 2.8rem;
-        padding: 2rem;
+    }
+    .posts{
+        padding-bottom: 2rem;
     }
     .sub-h2{
         padding: 1rem;
@@ -527,7 +532,7 @@ input {
         padding: 1.7rem 2.9rem 1.7rem 2.9rem;
     }
     .part-5{
-        padding: 2rem 2rem 2rem 2rem;
+        padding: 2rem 5rem 2rem 2rem;
     }
     .about{
         font-size: 2.8rem;
@@ -538,6 +543,7 @@ input {
     }
     .sub-bt{
         padding-top: 2rem;
+        padding-bottom: 2rem;
     }
     .part-6{
         padding: 2rem;
@@ -549,6 +555,15 @@ input {
     input{
         height: 2rem;
         width: 17rem;
+    }
+    .end{
+        padding: 1.5rem;
+    }
+    .logo-1{
+        font-size: 1.1rem;
+    }
+    .end-link, .end2023{
+        font-size: 0.7rem;
     }
 }
 
